@@ -1,4 +1,4 @@
-# ruta-ciberseguridad-e-IA
+# Ruta-ciberseguridad-e-IA
 
 ## 🧭 VISIÓN GENERAL DE LA RUTA
 ------------------------------
